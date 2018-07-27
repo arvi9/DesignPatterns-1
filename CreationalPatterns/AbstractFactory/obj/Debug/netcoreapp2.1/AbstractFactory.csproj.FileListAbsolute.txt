@@ -1,0 +1,11 @@
+/Users/karam/Code/DesignPatterns/CreationalPatterns/AbstractFactory/bin/Debug/netcoreapp2.1/AbstractFactory.deps.json
+/Users/karam/Code/DesignPatterns/CreationalPatterns/AbstractFactory/bin/Debug/netcoreapp2.1/AbstractFactory.runtimeconfig.json
+/Users/karam/Code/DesignPatterns/CreationalPatterns/AbstractFactory/bin/Debug/netcoreapp2.1/AbstractFactory.runtimeconfig.dev.json
+/Users/karam/Code/DesignPatterns/CreationalPatterns/AbstractFactory/bin/Debug/netcoreapp2.1/AbstractFactory.dll
+/Users/karam/Code/DesignPatterns/CreationalPatterns/AbstractFactory/bin/Debug/netcoreapp2.1/AbstractFactory.pdb
+/Users/karam/Code/DesignPatterns/CreationalPatterns/AbstractFactory/obj/Debug/netcoreapp2.1/AbstractFactory.csprojAssemblyReference.cache
+/Users/karam/Code/DesignPatterns/CreationalPatterns/AbstractFactory/obj/Debug/netcoreapp2.1/AbstractFactory.csproj.CoreCompileInputs.cache
+/Users/karam/Code/DesignPatterns/CreationalPatterns/AbstractFactory/obj/Debug/netcoreapp2.1/AbstractFactory.AssemblyInfoInputs.cache
+/Users/karam/Code/DesignPatterns/CreationalPatterns/AbstractFactory/obj/Debug/netcoreapp2.1/AbstractFactory.AssemblyInfo.cs
+/Users/karam/Code/DesignPatterns/CreationalPatterns/AbstractFactory/obj/Debug/netcoreapp2.1/AbstractFactory.dll
+/Users/karam/Code/DesignPatterns/CreationalPatterns/AbstractFactory/obj/Debug/netcoreapp2.1/AbstractFactory.pdb
