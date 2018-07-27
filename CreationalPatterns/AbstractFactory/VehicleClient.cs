@@ -1,3 +1,6 @@
+using AbstractFactory.Factories;
+using AbstractFactory.Models;
+
 namespace AbstractFactory {
     public class VehicleClient {
         private ICar _car;

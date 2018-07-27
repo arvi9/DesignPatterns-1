@@ -1,4 +1,4 @@
-namespace AbstractFactory {
+namespace AbstractFactory.Models {
     public class FordMotorbike : IMotorbike {
         public string GetName() {
             return "Ford Motorbike";

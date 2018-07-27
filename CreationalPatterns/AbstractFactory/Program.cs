@@ -1,4 +1,5 @@
 ﻿using System;
+using AbstractFactory.Factories;
 
 namespace AbstractFactory {
     class Program {
@@ -7,6 +8,7 @@ namespace AbstractFactory {
             VehicleClient HondaClient = new VehicleClient(HondaFactory);
             var HondaCar = HondaClient.GetCar();
             var HondaMotorbike = HondaClient.GetMotorbike();
+
             Console.WriteLine(String.Format("{0} has {1} wheels.", HondaCar.GetName(), HondaCar.GetNumberOfWheels()));
             Console.WriteLine(String.Format("{0} has {1} wheels.", HondaMotorbike.GetName(), HondaMotorbike.GetNumberOfWheels()));
 
@@ -14,6 +16,7 @@ namespace AbstractFactory {
             VehicleClient FordClient = new VehicleClient(FordFactory);
             var FordCar = FordFactory.GetCar();
             var FordMotorbike = FordFactory.GetMotorbike();
+
             Console.WriteLine(String.Format("{0} has {1} wheels.", FordCar.GetName(), FordCar.GetNumberOfWheels()));
             Console.WriteLine(String.Format("{0} has {1} wheels.", FordMotorbike.GetName(), FordMotorbike.GetNumberOfWheels()));
 
